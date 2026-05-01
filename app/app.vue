@@ -31,7 +31,7 @@ useHead({
   link: [
     {
       rel: 'canonical',
-      href: computed(() => `https://sink.cool${route.path}`),
+      href: computed(() => `https://lapweb.info${route.path}`),
     },
     {
       rel: 'icon',

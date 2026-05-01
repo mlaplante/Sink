@@ -30,7 +30,7 @@ const { rawStats } = useGithubStats()
               "
             >
               <NuxtLink
-                to="/"
+                to="/dashboard"
                 :title="title"
                 aria-label="home"
                 class="flex items-center space-x-2"
@@ -140,7 +140,7 @@ const { rawStats } = useGithubStats()
             "
           >
             <NuxtLink
-              to="/"
+              to="/dashboard"
               :title="title"
               aria-label="home"
               class="block size-fit"

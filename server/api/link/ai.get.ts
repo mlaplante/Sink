@@ -50,10 +50,10 @@ export default eventHandler(async (event) => {
     { role: 'user', content: 'https://github.com/nuxt/' },
     { role: 'assistant', content: '{"slug": "nuxt"}' },
 
-    { role: 'user', content: 'https://sink.cool/' },
-    { role: 'assistant', content: '{"slug": "sink-cool"}' },
+    { role: 'user', content: 'https://lapweb.info/' },
+    { role: 'assistant', content: '{"slug": "lapweb"}' },
 
-    { role: 'user', content: 'https://github.com/miantiao-me/sink' },
+    { role: 'user', content: 'https://github.com/mlaplante/Sink' },
     { role: 'assistant', content: '{"slug": "sink"}' },
 
     { role: 'user', content: userContent },
